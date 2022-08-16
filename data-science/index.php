@@ -14,7 +14,8 @@ $xssClean 	 = new xssClean;
 		?>
 		<meta name="robots" content="noindex, nofollow">
 		<?php
-	}
+	}  
+	
 	?>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<title>UC Berkeley Data Science | Online Certificate Course</title>
